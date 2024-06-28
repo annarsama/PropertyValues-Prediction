@@ -8,7 +8,7 @@ On this repository, there is only a Jupyter Notebook with steps we followed to a
 
 ## Data 📍
 
-We used about 3 million real public data from [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/), which are about property values from 2018, 2019, 2020 and 2021.
+We used about 3 million actual public data from [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/), which are about property values from 2018, 2019, 2020 and 2021.
 
 ## Machine Learning 📊
 
